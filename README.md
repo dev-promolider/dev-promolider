@@ -9,7 +9,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Equipo-Multidisciplinario-blue?style=flat-square&logo=users&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Lima%2C%20Perú-🇵🇪-red?style=flat-square"/>
 </p>
 
 <br/>
