@@ -106,7 +106,7 @@ Somos un equipo distribuido — cada colaborador trabaja desde su cuenta persona
 ## 🌐 Lenguajes más usados
 
 <div align="center">
-  <img src="https://github-readme-stats-sage-seven-12.vercel.app/api/top-langs/?username=dev-promolider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&v=1" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sage-seven-12.vercel.app/api/top-langs/?username=dev-promolider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=csharp,html,css&v=2" alt="Top Languages"/>
 </div>
 
 > *Nuestros proyectos principales son privados — este widget refleja los repos públicos. La distribución real del equipo incluye fuertemente PHP/Laravel, Python y JavaScript.*
