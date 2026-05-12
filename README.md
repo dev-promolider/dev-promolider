@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Promolider&fontSize=72&fontAlign=50&fontAlignY=38&desc=Software%20%2B%20Inteligencia%20Artificial&descAlign=50&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=200&section=header&text=Promolider&fontSize=72&fontAlign=50&fontAlignY=38&desc=Software%20%2B%20Inteligencia%20Artificial&descAlign=50&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -124,5 +124,5 @@ Somos un equipo distribuido — cada colaborador trabaja desde su cuenta persona
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=100&section=footer" width="100%"/>
 </div>
